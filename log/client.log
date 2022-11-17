@@ -5723,3 +5723,6 @@
 [ 2022-11-09 17:37:59,059 ] Asset loading complete
 [ 2022-11-09 17:38:10,624 ] qrc:/qml/gamewindow.qml:587:7: QML Image: Error decoding: qrc:/images/skin/classic/cipsoft-logo.png: Unable to read image data
 [ 2022-11-09 17:38:10,642 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2022-11-16 23:25:04,836 ] qrc:/qml/gamewindow.qml:587:7: QML Image: Error decoding: qrc:/images/skin/classic/cipsoft-logo.png: Unable to read image data
+[ 2022-11-16 23:25:04,856 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2022-11-16 23:25:05,125 ] Asset loading complete
