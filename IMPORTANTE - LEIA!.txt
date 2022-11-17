@@ -1,0 +1,27 @@
+O BOT É PERMITIDO, POREM NÃO É PERMITIDO BOT MC "EM PARTY"
+
+
+
+Caso deseje salvar suas hotkeys e configurações de account você abrirá esse novo cliente e APAGUE a pasta CHARACTER DATA e CONF.
+Após isso, abra o client antigo e copie as mesmas pastas para esse novo cliente, pronto esta feito!
+
+Se por acaso também queira salvar seu minimapa você pode fazer o mesmo procedimento com a pasta MINIMAP
+_______________________________________________________________________________
+Para abrir nosso cliente com segurança e rapidez:
+Abra a pasta galera, depois a pasta bin e clique em galera para acessar o servidor.
+Não se esqueça de abrir esse arquivo como Administrador!
+_______________________________________________________________________________
+
+Caso tenha problemas com conexão ou ping, realize um flush no DNS do seu pc.
+
+1- Pressione as teclas Windows+R juntas para a abrir o menu “executar” e então digite cmd para abrir o console do Prompt de Comando do Windows.
+2- Insira o seguinte comando para limpar os arquivos de cache DNS do seu computador:
+ipconfig /flushdns
+Dê enter.
+
+Após isso seu DNS estará limpo, isso ajudará caso sua conexão não esteja boa.
+
+_______________________________________________________________________________
+Configure o cliente da melhor maneira para o SEU PC, para evitar sobrecarga de FPS.
+
+Cuidado ao utilizar programas paralelos que influenciem a funcionalidade do client, sujeito a debugs.

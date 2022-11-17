@@ -1,0 +1,16 @@
+{
+    "eventlist": [
+        {
+            "colordark": "#235c00",
+            "colorlight": "#2d7400",
+            "description": "Promocao final de semana. Doe 50+ e receba 1 bag lion bonus + 150% de tibia coins.",
+            "displaypriority": 6,
+            "enddate": 1600484400,
+            "isseasonal": false,
+            "name": "Rapid Respawn and TP Bosses",
+            "specialevent": 0,
+            "startdate": 1600225200
+        }
+    ],
+    "lastupdatetimestamp": 1667466172
+}
